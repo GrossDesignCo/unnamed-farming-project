@@ -18,6 +18,7 @@ Wisdom
 
 - Has to promote real wisdom over catchy BS
 - Common ideas in farming today could be useless in certain times/places
+- Teach people how to really take care of the land
 
 
 ## Feature Ideas
@@ -35,7 +36,11 @@ Manual Soil Stats
 - Give recommendations for modifications to soil for different types of crops
 - Give recommendations for co-planting to naturally amend soil
 
-Crop histories
+Swales & Water flow mapping?
+
+- No idea how this would work, but would be awesome if we could help people make improvements to their land in water capture
+
+Crop tracking + history
 
 - Track crops in specific fields
 - 3D map of fields & topology
@@ -51,6 +56,7 @@ Put anecdotal evidence to the test
 - Provide anecdotal recommendations
 - Record results across farms that tried anecdotal recommendations
 - Compile stats on conditions for success/failure of anecdotes
+- Research on common anecdotes & where they come from (see Gardening Myths by that british author)
 
 Connect similar farms
 
