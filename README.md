@@ -7,6 +7,19 @@ Notes:
 It would be really neat to write software to support small independant farms 
 Could hypothetically contribute to [citizen science projects](https://www.nationalgeographic.org/idea/citizen-science-projects/?page=3)
 
+## Key Principles
+
+Sustainability
+
+- Has to help farmers be sustainable for the long term.
+- Dollar maximization in the short-term is useless if it's a net-loss in the long term.
+
+Wisdom
+
+- Has to promote real wisdom over catchy BS
+- Common ideas in farming today could be useless in certain times/places
+
+
 ## Feature Ideas
 
 Topography-based Soil Stats
