@@ -60,6 +60,13 @@ Provide useful insight to communities
 - Reports on Food security & Food sovereignty (eg. how much food is produced in given regions vs population)
 - Info on seasonality & available crops at different farms (eg. what's in season & out of season)
 
+Collect & provide resources to farms
+
+- Funding sources (American AgCredit, etc)
+- Legal/regulatory info about certain crops (eg. Pot, Corn)
+- Taxes & Credits?
+- Anything external that's typically difficult to navigate for farmers
+
 ## Physical Product Ideas
 
 Bird Tracker
