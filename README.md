@@ -7,20 +7,6 @@ Notes:
 It would be really neat to write software to support small independant farms 
 Could hypothetically contribute to [citizen science projects](https://www.nationalgeographic.org/idea/citizen-science-projects/?page=3)
 
-## Key Principles
-
-Sustainability
-
-- Has to help farmers be sustainable for the long term.
-- Dollar maximization in the short-term is useless if it's a net-loss in the long term.
-
-Wisdom
-
-- Has to promote real wisdom over catchy BS
-- Common ideas in farming today could be useless in certain times/places
-- Teach people how to really take care of the land
-
-
 ## Feature Ideas
 
 Topography-based Soil Stats
@@ -69,6 +55,11 @@ Connect farms to customers?
 - Collective interface for farmers markets?
 - Collective supply for local grocery stores/restaurants/food banks?
 
+Provide useful insight to communities
+
+- Reports on Food security & Food sovereignty (eg. how much food is produced in given regions vs population)
+- Info on seasonality & available crops at different farms (eg. what's in season & out of season)
+
 ## Physical Product Ideas
 
 Bird Tracker
@@ -77,8 +68,45 @@ Bird Tracker
 - Records sounds throughout the day (maybe once a week or something)
 - Matches sounds to bird species
 
-Light Sensor
+Light Monitor
 
 - Plan for solar panels
 - Light sensor on a stick
 - Measure lumens once / hour (or something)
+- Measure wavelengths, light composition, provide data for planting recommendations
+
+Rainfall Capture Meter
+
+- Capture rainfall every day
+- Automatically record inches (and maybe type? eg. sprinkle shower, hail)
+- Test rainwater composition?
+
+Beehive Traffic Meter
+
+- Little gate that tracks entries & exits for bees
+- Records daily/hourly tallies to monitor hive activity
+- Generate alerts if traffic drops
+
+## Key Principles
+
+Sustainability
+
+- Has to help farmers be sustainable for the long term.
+- Dollar maximization in the short-term is useless if it's a net-loss in the long term.
+
+Wisdom
+
+- Has to promote real wisdom over catchy BS
+- Common ideas in farming today could be useless in certain times/places
+- Teach people how to really take care of the land
+
+Offline/Rural/Remote
+
+- Design to serve rural/remote communities & people
+- As much as possible should work on slow internet connections or offline entirely for extended periods
+- Should work on a wide range of device types to support ecclectic userbase
+- Design for simplicity, ease of translation, ease of migrating data in and out of other platforms
+
+Beautiful
+
+- Should be excellent enough that folks want to print out visuals & keep it close at hand
